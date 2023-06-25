@@ -1,6 +1,9 @@
+// 
+
 const result = document.getElementById("result");
 const searchButton = document.getElementById("search");
-const url = 'https://recipe-by-api-ninjas.p.rapidapi.com/v1/recipe?query=italian%20wedding%20soup';
+const url = "https://www.themealdb.com/api/json/v1/1/search.php?s=";
+
 searchButton.addEventListener("click", () => {
   let userInput = document.getElementById("user-input").value;
   if (userInput.length == 0) {
