@@ -48,4 +48,6 @@ A simple web application that allows users to search for a meal recipe and view 
 - Implement pagination or allow users to scroll through multiple meal results.
 - Enhance the UI/UX design for a better user experience.
 
+## Acknowledgements
 
+This project is built upon the original implementation by [The Coding Artist](https://www.youtube.com/watch?v=kz-LO-g1Zyk&list=PLNCevxogE3fiLT6bEObGeVfHVLnttptKv&index=6). I extend my heartfelt gratitude to them for their invaluable contributions and educational content that inspired this project.
